@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Airteen
+- 🌱 I’m currently learning Python, JS, HTML and CSS
