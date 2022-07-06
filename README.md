@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Airteen
-- 🌱 I’m currently learning Python, HTML and CSS
+- 🌱 I’m currently learning Python, HTML, CSS, JS, SQL
